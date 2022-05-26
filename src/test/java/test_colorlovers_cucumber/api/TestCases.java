@@ -7,7 +7,7 @@ public class TestCases {
 	@Test
 	public void defineRequest()
 	{
-		
+		int i =0;
 	}
 
 }
